@@ -1,4 +1,4 @@
-Syntax highlighted code block
+Syntax highlighted code block :grinning:
 
 # Header 1
 ## Header 2
