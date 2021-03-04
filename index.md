@@ -1,3 +1,17 @@
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text  
+
 <html>
   <meta charset="UTF-8">
   <head>
@@ -40,19 +54,6 @@
       }
     </script>
   </head>
-  Syntax highlighted code block
-
-  # Header 1
-  ## Header 2
-  ### Header 3
-
-  - Bulleted
-  - List
-
-  1. Numbered
-  2. List
-
-  **Bold** and _Italic_ and `Code` text  
   <body>
     <h1>Hola mundo etc</h1>
 	<br>
