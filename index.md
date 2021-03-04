@@ -40,7 +40,6 @@
       }
     </script>
   </head>
-  <body>
   Syntax highlighted code block
 
 # Header 1
@@ -53,8 +52,8 @@
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
+**Bold** and _Italic_ and `Code` text  
+  <body>
     <h1>Hola mundo etc</h1>
 	<br>
     <!--Div that will hold the pie chart-->
