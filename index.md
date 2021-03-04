@@ -42,7 +42,14 @@
     </script>
   </head>
   <body>
-Syntax highlighted code block
+
+
+    <h1>Hola mundo etc</h1>
+	<br>
+    <!--Div that will hold the pie chart-->
+    <div id="chart_div"></div>
+  </body>
+  Syntax highlighted code block
 
 # Header 1
 ## Header 2
@@ -55,10 +62,4 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
-    <h1>Hola mundo etc</h1>
-	<br>
-    <!--Div that will hold the pie chart-->
-    <div id="chart_div"></div>
-  </body>
 </html>
