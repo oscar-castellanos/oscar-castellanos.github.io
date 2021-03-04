@@ -49,6 +49,7 @@
     <!--Div that will hold the pie chart-->
     <div id="chart_div"></div>
   </body>
+</html>
   Syntax highlighted code block
 
 # Header 1
@@ -62,4 +63,3 @@
 2. List
 
 **Bold** and _Italic_ and `Code` text
-</html>
