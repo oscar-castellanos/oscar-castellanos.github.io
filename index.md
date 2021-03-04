@@ -1,5 +1,4 @@
 Syntax highlighted code block 
-:grinning:
 
 # Header 1
 ## Header 2
