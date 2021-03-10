@@ -36,12 +36,12 @@ Syntax highlighted code block
         data.addColumn('string', 'Topping');
         data.addColumn('number', 'Slices');
         data.addRows([
-        [13, Andrej],
-        [19, Mark],
-        [20, Thomas],
-        [18, Lucy],
-        [1, Robert],
-        [17, Dragomir],
+        [13, 'Andrej'],
+        [19, 'Mark'],
+        [20, 'Thomas'],
+        [18, 'Lucy'],
+        [1, 'Robert'],
+        [17, 'Dragomir'],
         ]);
 
         // Set chart options
