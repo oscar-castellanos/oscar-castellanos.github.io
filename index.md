@@ -33,15 +33,15 @@ Syntax highlighted code block
 
         // Create the data table.
         var data = new google.visualization.DataTable();
+	data.addColumn('string', 'Author');
  	data.addColumn('number', 'Top');
- 	data.addColumn('string', 'Author');
         data.addRows([
-        [13, 'Andrej'],
-        [19, 'Mark'],
-        [20, 'Thomas'],
-        [18, 'Lucy'],
-        [1, 'Robert'],
-        [17, 'Dragomir'],
+        ['Andrej', 13],
+        ['Mark', 19],
+        ['Thomas', 20],
+        ['Lucy', 18],
+        ['Robert', 1],
+        ['Dragomir', 17],
         ]);
 
         // Set chart options
