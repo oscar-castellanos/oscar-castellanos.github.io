@@ -42,6 +42,7 @@ Syntax highlighted code block
         ['Lucy', 18],
         ['Robert', 1],
         ['Dragomir', 17],
+	
         ]);
 
         // Set chart options
