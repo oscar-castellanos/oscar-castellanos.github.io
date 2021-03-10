@@ -74,7 +74,7 @@ Syntax highlighted code block
 
     // Instantiate and draw our chart, passing in some options.
     var chart = new google.visualization.Table(document.getElementById('chart_div'));
-    chart.draw(data, {showRowNumber: true, width: '100%', height: '100%'});
+    chart.draw(data, {width: '100%', height: '100%'});
       }
     </script>
   </head>
