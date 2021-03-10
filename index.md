@@ -33,8 +33,8 @@ Syntax highlighted code block
 
         // Create the data table.
         var data = new google.visualization.DataTable();
-        data.addColumn('string', 'Topping');
-        data.addColumn('number', 'Slices');
+ 	data.addColumn('number', 'Top');
+ 	data.addColumn('string', 'Author');
         data.addRows([
         [13, 'Andrej'],
         [19, 'Mark'],
